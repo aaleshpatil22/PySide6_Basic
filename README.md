@@ -22,11 +22,11 @@ Welcome to the PySide6 Basic Projects repository! This collection serves as a re
 
 ## Included Elements
 
-Explore the following PySide6 elements within this repository:
+Explore the following PySide6 elements and basic applications within this repository:
 
 - [Form](./Form/README.md) 
 - [GridLayout](./GridLayout/README.md)
-- Group
+- [Group](./Group/README.md)
 - Image
 - Label
 - List
