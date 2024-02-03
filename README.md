@@ -31,7 +31,7 @@ Explore the following PySide6 elements and basic applications within this reposi
 - [SpinBox](./SpinBox/README.md)
 - [Tab](./Tab/README.md)
 - [TextEdit](./TextEdit/README.md)
-- [Policy](./Policy/README.md)
+- [Policy](./policy/README.md)
 - [ui_app](./ui_app/README.md)
 - [ui_loader](./ui_loader/README.md)
 
