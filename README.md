@@ -23,17 +23,17 @@ Explore the following PySide6 elements and basic applications within this reposi
 - [Form](./Form/README.md) 
 - [GridLayout](./GridLayout/README.md)
 - [Group](./Group/README.md)
-- Image
-- Label
-- List
-- MessageBox
-- QPushButton
-- SpinBox
-- Tab
-- TextEdit
-- Policy
-- ui_app
-- ui_loader
+- [Image](./Image/README.md)
+- [Label](./Label/README.md)
+- [List](./List/README.md)
+- [MessageBox](./MessageBox/README.md)
+- [QPushButton](./QPushButton/README.md)
+- [SpinBox](./SpinBox/README.md)
+- [Tab](./Tab/README.md)
+- [TextEdit](./TextEdit/README.md)
+- [Policy](./Policy/README.md)
+- [ui_app](./ui_app/README.md)
+- [ui_loader](./ui_loader/README.md)
 
 ## Getting Started
 
@@ -41,6 +41,7 @@ Clone this repository to your local machine to get started with PySide6 basic pr
 
 ```bash
 git clone https://github.com/aaleshpatil22/PySide6_Basic.git
+cd PySide6_Basic
 ```
 
 Make sure you have Python and PySide6 installed.
