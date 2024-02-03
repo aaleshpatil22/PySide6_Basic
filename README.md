@@ -33,7 +33,6 @@ Explore the following PySide6 elements and basic applications within this reposi
 - [TextEdit](./TextEdit/README.md)
 - [SizePolicy](./SizePolicy/README.md)
 - [ui_app](./ui_app/README.md)
-- [ui_loader](./ui_loader/README.md)
 
 ## Getting Started
 
