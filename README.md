@@ -25,7 +25,7 @@ Welcome to the PySide6 Basic Projects repository! This collection serves as a re
 Explore the following PySide6 elements within this repository:
 
 - [Form](./Form/README.md) 
-- GridLayout
+- [GridLayout](./GridLayout/README.md)
 - Group
 - Image
 - Label
@@ -45,7 +45,6 @@ Clone this repository to your local machine to get started with PySide6 basic pr
 
 ```bash
 git clone https://github.com/aaleshpatil22/PySide6_Basic.git
-cd PySide6_Basic
 ```
 
 Make sure you have Python and PySide6 installed.
