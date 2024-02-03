@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>501</width>
+    <height>291</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>130</y>
+     <width>200</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="minus_button">
+        <property name="text">
+         <string>Minus</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="spin_box"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QPushButton" name="plus_button">
+      <property name="text">
+       <string>Plus</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <action name="minus_button_2">
+   <property name="icon">
+    <iconset resource="spin.qrc">
+     <normaloff>:/minus.png</normaloff>:/minus.png</iconset>
+   </property>
+   <property name="text">
+    <string>Minus</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="spin.qrc"/>
+ </resources>
+ <connections/>
+</ui>
