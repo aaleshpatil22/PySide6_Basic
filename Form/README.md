@@ -28,7 +28,7 @@ This project showcases the implementation of a basic form using PySide6, providi
 
    ```bash
    git clone https://github.com/aaleshpatil22/PySide6_Basic.git
-   cd Form
+    cd PySide6_Basic/Form
    ```
 
 2. Ensure you have Python and PySide6 installed:
