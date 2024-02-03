@@ -1,6 +1,6 @@
 from PySide6.QtWidgets import QApplication
 import sys
-from hello_world import Widget
+from MessageBox import Widget
 
 
 if __name__=="__main__":
