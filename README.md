@@ -1,7 +1,3 @@
-Certainly! Here's the updated README file with the link to your repository:
-
----
-
 # PySide6 Basic Projects
 
 This repository contains a collection of PySide6 code snippets and small projects showcasing various GUI elements commonly used in PySide6 applications.
