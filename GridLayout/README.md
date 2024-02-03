@@ -27,7 +27,7 @@ This project showcases the implementation of a PySide6 application utilizing the
 
    ```bash
    git clone https://github.com/aaleshpatil22/PySide6_Basic.git
-   cd GridLayout
+    cd PySide6_Basic/GridLayout
    ```
 
 2. Ensure you have Python and PySide6 installed:
