@@ -1,5 +1,5 @@
 from PySide6.QtWidgets import QApplication
-from lable import Window
+from label import Window
 import sys
 
 if __name__=="__main__":
