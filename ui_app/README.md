@@ -1,4 +1,4 @@
-# PySide6 Notepad Application
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) Notepad Application
 
 This project is a simple Notepad application created using PySide6, providing basic text editing functionalities. The application includes features such as copy, cut, paste, undo, redo, and basic file operations.
 
