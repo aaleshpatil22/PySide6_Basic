@@ -1,4 +1,8 @@
-# PySide6 Counter Application
+![Screenshot](Screenshot.png)
+
+---
+
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) Counter Application
 
 This project showcases a simple PySide6 application with a counter. The graphical user interface (GUI) includes a spin box, a minus button, and a plus button. The counter value can be adjusted by clicking the buttons or using the spin box.
 
