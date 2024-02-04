@@ -1,4 +1,8 @@
-# PySide6 QTabWidget Example
+![Screenshot](Screenshot.png)
+
+---
+
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) QTabWidget Example
 
 This project demonstrates the usage of the QTabWidget element in PySide6, a Python binding for the Qt framework. The `main.py` file creates a simple PySide6 application with a QWidget containing QTabWidget, showcasing three tabs - "Form," "Buttons," and "Combo."
 
