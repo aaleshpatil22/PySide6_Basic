@@ -1,4 +1,8 @@
-# PySide6 QTextEdit Example
+![Screenshot](Screenshot.png)
+
+---
+
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) QTextEdit Example
 
 This project demonstrates the usage of the `QTextEdit` element in PySide6, a Python binding for the Qt framework. The `main.py` file creates a simple PySide6 application with a `QTextEdit` widget along with various buttons for manipulating the text content.
 
