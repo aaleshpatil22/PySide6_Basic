@@ -9,7 +9,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         super().__init__()
         self.setupUi(self)
         self.app = app
-        self.setWindowIcon(r"C:/Users/Aalesh/PycharmProjects/pythonProject/ui_app/images/quitIcon.png")
         self.setWindowTitle("MyApp")
         self.actionQuit.triggered.connect(self.quit)
         self.actionCopy.triggered.connect(self.copy)
