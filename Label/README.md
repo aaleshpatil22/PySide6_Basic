@@ -1,4 +1,8 @@
-# PySide6 QLabel Example
+![Screenshot](Screenshot.png)
+
+---
+
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) QLabel Example
 
 This project demonstrates the usage of the QLabel element in PySide6, a Python binding for the Qt framework. The `main.py` file creates a simple PySide6 application with a QWidget containing a QLabel, QLineEdit, QPushButton, and another QLabel to showcase QLabel-related functionalities.
 
