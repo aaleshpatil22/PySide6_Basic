@@ -1,4 +1,4 @@
-![PySide Logo](ScreenShot.png)
+![Screenshot](Screenshot.png)
 
 ---
 
