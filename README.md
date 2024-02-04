@@ -1,4 +1,4 @@
-# PySide6 Basic Projects
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) Basic Projects
 
 This repository contains a collection of PySide6 code snippets and small projects showcasing various GUI elements commonly used in PySide6 applications.
 
