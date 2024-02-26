@@ -27,15 +27,27 @@ Welcome to the ERP Management Application repository! This Python application pr
 - **Database Management:** DuckDB ensures efficient and reliable storage, easily scalable as your business grows.
 - **Show Daily Transactions:** Explore daily transactions by selecting a specific sales group, date range, and item group.
 
-## Installation
 
-### Prerequisites
+## Getting Started
 
-- Python (>=3.6)
-- PySide6
-- matplotlib
-- pandas
-- duckdb
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/aaleshpatil22/PySide6_Basic.git
+   cd PySide6_Basic/ERP_Solutions
+   ```
+
+2. Ensure you have Python and PySide6 installed:
+
+   ```bash
+   pip install PySide6 matplotlib pandas duckdb
+   ```
+
+## Usage
+
+Run the `main.py` script to launch the PySide6 Notepad application:
 
 ```bash
-pip install PySide6 matplotlib pandas duckdb
+python main.py
+```
+
