@@ -9,7 +9,7 @@ Welcome to the ERP Management Application repository! This Python application pr
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#Getting_Started)
+- [Getting Started](#getting Started)
 - [Usage](#usage)
 - 
 ## Features
