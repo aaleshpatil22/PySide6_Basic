@@ -34,6 +34,7 @@ Explore the following PySide6 elements and basic applications within this reposi
 - [SizePolicy](./SizePolicy/README.md)
 - [ui_app](./ui_app/README.md)
 - [newPlayer](./newPlayer/README.md)
+- [ERP_Solutions](./ERP_Solutions/README.md)
 
 ## Getting Started
 
