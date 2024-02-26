@@ -48,6 +48,6 @@ Welcome to the ERP Management Application repository! This Python application pr
 Run the `main.py` script to launch the PySide6 Notepad application:
 
 ```bash
-python main.py
+python pdf_viewer_local_js_local_pdf_menu.py
 ```
 
