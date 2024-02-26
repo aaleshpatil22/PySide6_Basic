@@ -11,7 +11,7 @@ Welcome to the ERP Management Application repository! This Python application pr
 - [Features](#features)
 - [Getting Started](#getting)
 - [Usage](#usage)
-- 
+
 ## Features
 
 - **Easy Data Entry:** Quickly add dairy products, their weights, and quantities with a user-friendly interface.
