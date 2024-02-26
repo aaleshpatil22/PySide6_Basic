@@ -1,4 +1,4 @@
-# ERP Management Application
+# ![PySide Logo](https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png) ERP Management Application
 
 Welcome to the ERP Management Application repository! This Python application provides a comprehensive solution for managing dairy invoices and transaction details. 
 
